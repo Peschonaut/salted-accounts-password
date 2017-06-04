@@ -1,6 +1,6 @@
 Package.describe({
     name: 'peschonaut:salted-accounts-password',
-    version: '0.0.1',
+    version: '0.0.2',
     summary: 'This package extends Meteor\'s default accounts-password library to account for a user._id salt.',
     git: 'https://github.com/Peschonaut/salted-accounts-password.git',
     documentation: 'README.md'
